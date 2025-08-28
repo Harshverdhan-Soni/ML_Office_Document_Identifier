@@ -1,0 +1,1233 @@
+text,label
+"""Agreement between company and vendor for supplies""",Agreement
+"""Service agreement for IT support""",Agreement
+"""Service agreement for vendor support"", …",Agreement
+Service agreement for vendor support,Agreement
+Agreement for IT maintenance services,Agreement
+Contract agreement for office renovation,Agreement
+Agreement for security services,Agreement
+Service agreement for cleaning company,Agreement
+Agreement for office equipment lease,Agreement
+Agreement for stationery supply vendor,Agreement
+Contract for annual audit services,Agreement
+Service agreement for software maintenance,Agreement
+Agreement for office furniture supply,Agreement
+Bill for broadband connection charges,Bill
+Bill for canteen food supply,Bill
+Bill for cleaning and sanitation services,Bill
+Bill for courier services,Bill
+Bill for diesel consumed by DG set,Bill
+Bill for internet services for August month,Bill
+Bill for maintenance of AC units,Bill
+Bill for office rent August 2025,Bill
+Bill for office stationery purchase,Bill
+Bill for pest control services,Bill
+Bill for repair of official vehicle,Bill
+Bill for repair of photocopier machine,Bill
+Bill for staff bus service,Bill
+Bill for taxi services during official travel,Bill
+Bill raised for canteen supply expenses (Bill Ref 25),Bill
+Bill raised for canteen supply expenses (Bill Ref 44),Bill
+Bill raised for canteen supply expenses (Bill Ref 59),Bill
+Bill raised for canteen supply expenses (Bill Ref 73),Bill
+Bill raised for electricity expenses (Bill Ref 40),Bill
+Bill raised for internet broadband expenses (Bill Ref 36),Bill
+Bill raised for office rent expenses (Bill Ref 24),Bill
+Bill raised for office rent expenses (Bill Ref 4),Bill
+Bill raised for office rent expenses (Bill Ref 76),Bill
+Bill raised for security services expenses (Bill Ref 65),Bill
+Bill raised for telephone expenses (Bill Ref 16),Bill
+Bill raised for telephone expenses (Bill Ref 32),Bill
+Bill raised for telephone expenses (Bill Ref 90),Bill
+Bill raised for travel and lodging expenses (Bill Ref 54),Bill
+Bill raised for travel and lodging expenses (Bill Ref 87),Bill
+Bill raised for travel and lodging expenses (Bill Ref 88),Bill
+Bill raised for travel and lodging expenses (Bill Ref 91),Bill
+Bill raised for vehicle fuel expenses (Bill Ref 38),Bill
+Bill raised for vehicle fuel expenses (Bill Ref 50),Bill
+Bill raised for vehicle fuel expenses (Bill Ref 68),Bill
+Bill raised for vehicle fuel expenses (Bill Ref 99),Bill
+Bill statement for canteen supply payment (Bill Ref 18),Bill
+Bill statement for canteen supply payment (Bill Ref 49),Bill
+Bill statement for internet broadband payment (Bill Ref 48),Bill
+Bill statement for internet broadband payment (Bill Ref 60),Bill
+Bill statement for office rent payment (Bill Ref 70),Bill
+Bill statement for office rent payment (Bill Ref 75),Bill
+Bill statement for office rent payment (Bill Ref 77),Bill
+Bill statement for security services payment (Bill Ref 33),Bill
+Bill statement for security services payment (Bill Ref 62),Bill
+Bill statement for travel and lodging payment (Bill Ref 29),Bill
+Bill statement for travel and lodging payment (Bill Ref 5),Bill
+Bill statement for travel and lodging payment (Bill Ref 55),Bill
+Bill statement for travel and lodging payment (Bill Ref 61),Bill
+Bill statement for travel and lodging payment (Bill Ref 85),Bill
+Bill statement for vehicle fuel payment (Bill Ref 100),Bill
+Bill statement for vehicle fuel payment (Bill Ref 14),Bill
+Bill statement for vehicle fuel payment (Bill Ref 21),Bill
+Electricity bill for auditorium,Bill
+Electricity bill for guest house,Bill
+"""This certifies completion of computer training program""",Certificate
+"""Certificate of participation in workshop""",Certificate
+"""Certificate of completion: Python training"", …",Certificate
+Certificate of completion: Python training,Certificate
+Certificate for participation in AI workshop,Certificate
+Certificate for excellence in project work,Certificate
+Certificate of achievement: Employee of the Month,Certificate
+Certificate for completing cybersecurity course,Certificate
+Certificate of participation in leadership program,Certificate
+Certificate for training on office management,Certificate
+Certificate of completion: Data Science Bootcamp,Certificate
+Certificate for outstanding performance,Certificate
+Certificate for employee induction program,Certificate
+Indent for procurement of 20 office chairs and 4 tables,Indent
+Indent form submitted for 10 air conditioners required urgently (Indent Ref 99),Indent
+Indent form submitted for 11 conference tables required urgently (Indent Ref 88),Indent
+Indent form submitted for 11 conference tables required urgently (Indent Ref 96),Indent
+Indent form submitted for 11 office chairs required urgently (Indent Ref 2),Indent
+Indent form submitted for 14 conference tables required urgently (Indent Ref 59),Indent
+Indent form submitted for 15 external hard drives required urgently (Indent Ref 84),Indent
+Indent form submitted for 15 stationery packs required urgently (Indent Ref 83),Indent
+Indent form submitted for 18 keyboards required urgently (Indent Ref 41),Indent
+Indent form submitted for 20 external hard drives required urgently (Indent Ref 89),Indent
+Indent form submitted for 20 laser printers required urgently (Indent Ref 74),Indent
+Indent form submitted for 21 conference tables required urgently (Indent Ref 26),Indent
+Indent form submitted for 23 conference tables required urgently (Indent Ref 86),Indent
+Indent form submitted for 23 external hard drives required urgently (Indent Ref 19),Indent
+Indent form submitted for 25 servers required urgently (Indent Ref 6),Indent
+Indent form submitted for 3 laser printers required urgently (Indent Ref 56),Indent
+Indent form submitted for 5 conference tables required urgently (Indent Ref 93),Indent
+Indent form submitted for 6 monitors required urgently (Indent Ref 13),Indent
+Indent form submitted for 8 desktops required urgently (Indent Ref 24),Indent
+Indent form submitted for 9 conference tables required urgently (Indent Ref 49),Indent
+Indent generated for procurement of 1 office chairs (Indent Ref 36),Indent
+Indent generated for procurement of 11 air conditioners (Indent Ref 17),Indent
+Indent generated for procurement of 12 desktops (Indent Ref 78),Indent
+Indent generated for procurement of 14 external hard drives (Indent Ref 8),Indent
+Indent generated for procurement of 14 laser printers (Indent Ref 40),Indent
+Indent generated for procurement of 17 air conditioners (Indent Ref 79),Indent
+Indent generated for procurement of 17 office chairs (Indent Ref 28),Indent
+Indent generated for procurement of 2 stationery packs (Indent Ref 7),Indent
+Indent generated for procurement of 20 keyboards (Indent Ref 22),Indent
+Indent generated for procurement of 21 conference tables (Indent Ref 45),Indent
+Indent generated for procurement of 22 monitors (Indent Ref 62),Indent
+Indent generated for procurement of 23 monitors (Indent Ref 75),Indent
+Indent generated for procurement of 4 servers (Indent Ref 64),Indent
+Indent generated for procurement of 6 conference tables (Indent Ref 23),Indent
+Indent generated for procurement of 9 laser printers (Indent Ref 25),Indent
+Indent raised for 2 laser printers,Indent
+Indent raised for 5 filing cabinets,Indent
+Indent raised for 5 projectors and screens,Indent
+Indent raised for employee ID card printing,Indent
+Indent raised for ergonomic chairs,Indent
+Indent raised for extension cords and adapters,Indent
+Indent raised for external hard drives,Indent
+Indent raised for headphones and microphones,Indent
+Indent raised for new server racks,Indent
+Indent raised for printers and scanners,Indent
+Indent raised for project documentation kits,Indent
+Indent raised for purchase of 11 keyboards (Indent Ref 77),Indent
+Indent raised for purchase of 11 office chairs (Indent Ref 65),Indent
+Indent raised for purchase of 12 desktops (Indent Ref 27),Indent
+Indent raised for purchase of 12 external hard drives (Indent Ref 90),Indent
+Indent raised for purchase of 13 office chairs (Indent Ref 54),Indent
+Indent raised for purchase of 17 air conditioners (Indent Ref 82),Indent
+Indent raised for purchase of 17 keyboards (Indent Ref 4),Indent
+Indent raised for purchase of 19 external hard drives (Indent Ref 5),Indent
+Indent raised for purchase of 2 external hard drives (Indent Ref 37),Indent
+Indent raised for purchase of 20 keyboards (Indent Ref 91),Indent
+Indent raised for purchase of 23 external hard drives (Indent Ref 15),Indent
+Indent raised for purchase of 23 servers (Indent Ref 30),Indent
+Indent raised for purchase of 23 servers (Indent Ref 98),Indent
+Indent raised for purchase of 24 servers (Indent Ref 9),Indent
+Indent raised for purchase of 25 conference tables (Indent Ref 33),Indent
+Indent raised for purchase of 25 keyboards (Indent Ref 29),Indent
+Indent raised for purchase of 25 laser printers (Indent Ref 47),Indent
+Indent raised for purchase of 25 monitors (Indent Ref 39),Indent
+Indent raised for purchase of 3 keyboards (Indent Ref 97),Indent
+Indent raised for purchase of 3 office chairs (Indent Ref 85),Indent
+Indent raised for purchase of 4 external hard drives (Indent Ref 44),Indent
+Indent raised for purchase of 5 keyboards (Indent Ref 21),Indent
+Indent raised for purchase of 5 keyboards (Indent Ref 32),Indent
+Indent raised for purchase of 5 servers (Indent Ref 71),Indent
+Indent raised for purchase of 6 conference tables (Indent Ref 55),Indent
+Indent raised for purchase of 8 laser printers (Indent Ref 72),Indent
+Indent raised for UPS systems,Indent
+Indent raised for WiFi access points,Indent
+Indent request for 1 laser printers for department use (Indent Ref 60),Indent
+Indent request for 1 servers for department use (Indent Ref 10),Indent
+Indent request for 10 air conditioners for department use (Indent Ref 94),Indent
+Indent request for 10 reams of A4 paper and 5 staplers,Indent
+Indent request for 10 reams of A4 paper and 5 staplers,Indent
+Indent request for 10 routers and switches,Indent
+Indent request for 13 office chairs for department use (Indent Ref 70),Indent
+Indent request for 13 office chairs for department use (Indent Ref 95),Indent
+Indent request for 14 conference tables for department use (Indent Ref 14),Indent
+Indent request for 17 conference tables for department use (Indent Ref 51),Indent
+Indent request for 17 desktops for department use (Indent Ref 3),Indent
+Indent request for 19 laser printers for department use (Indent Ref 18),Indent
+Indent request for 2 air conditioners,Indent
+Indent request for 2 monitors for department use (Indent Ref 61),Indent
+Indent request for 21 monitors for department use (Indent Ref 53),Indent
+Indent request for 22 servers for department use (Indent Ref 52),Indent
+Indent request for 23 air conditioners for department use (Indent Ref 38),Indent
+Indent request for 23 laser printers for department use (Indent Ref 34),Indent
+Indent request for 25 desktops for department use (Indent Ref 43),Indent
+Indent request for 3 desktops for department use (Indent Ref 76),Indent
+Indent request for 3 office chairs for department use (Indent Ref 31),Indent
+Indent request for 3 refrigerators,Indent
+Indent request for 4 monitors for department use (Indent Ref 80),Indent
+Indent request for 4 stationery packs for department use (Indent Ref 48),Indent
+Indent request for 5 whiteboards,Indent
+Indent request for 50 notepads and 100 pens,Indent
+Indent request for 6 external hard drives for department use (Indent Ref 63),Indent
+Indent request for 6 laser printers for department use (Indent Ref 16),Indent
+Indent request for 7 stationery packs for department use (Indent Ref 100),Indent
+Indent request for 9 office chairs for department use (Indent Ref 58),Indent
+Indent request for biometric attendance machine,Indent
+Indent request for conference hall chairs,Indent
+Indent request for desktop computers,Indent
+Indent request for digital cameras,Indent
+Indent request for LCD projectors,Indent
+Indent request for projector lamps,Indent
+Indent request for sanitary supplies,Indent
+Indent request for server backup system,Indent
+Indent request for shredding machines,Indent
+Indent request for spiral binders and folders,Indent
+Indent request for toner cartridges,Indent
+Indent request for whiteboard markers,Indent
+PO raised for 3 laptops as per indent,Indent
+PO raised for 3 laptops as per indent,Indent
+Request placed for supply of 10 office chairs (Indent Ref 73),Indent
+Request placed for supply of 11 desktops (Indent Ref 1),Indent
+Request placed for supply of 11 keyboards (Indent Ref 20),Indent
+Request placed for supply of 12 air conditioners (Indent Ref 57),Indent
+Request placed for supply of 13 air conditioners (Indent Ref 67),Indent
+Request placed for supply of 13 desktops (Indent Ref 50),Indent
+Request placed for supply of 13 keyboards (Indent Ref 12),Indent
+Request placed for supply of 14 air conditioners (Indent Ref 42),Indent
+Request placed for supply of 17 air conditioners (Indent Ref 11),Indent
+Request placed for supply of 2 laser printers (Indent Ref 92),Indent
+Request placed for supply of 22 conference tables (Indent Ref 35),Indent
+Request placed for supply of 22 servers (Indent Ref 46),Indent
+Request placed for supply of 22 servers (Indent Ref 81),Indent
+Request placed for supply of 23 monitors (Indent Ref 66),Indent
+Request placed for supply of 4 monitors (Indent Ref 87),Indent
+Request placed for supply of 5 laser printers (Indent Ref 69),Indent
+Request placed for supply of 8 monitors (Indent Ref 68),Indent
+Indent request for 10 office chairs and 2 tables,Indent
+Indent raised for 5 desktop computers for IT lab,Indent
+Indent request for 20 reams of A4 paper and 50 pens,Indent
+Indent for 3 projectors and screens for training hall,Indent
+Indent raised for 2 air conditioners for conference room,Indent
+Indent request for 5 routers and 10 LAN switches,Indent
+Indent for 15 ergonomic office chairs,Indent
+Indent request for 4 printers and 20 toner cartridges,Indent
+Indent raised for 50 notepads and 100 staplers,Indent
+Indent request for 3 servers for data center,Indent
+Indent for 25 office tables and 30 chairs,Indent
+Indent raised for 10 external hard drives,Indent
+Indent request for 2 biometric attendance machines,Indent
+Indent raised for 15 whiteboards,Indent
+Indent for 20 calculators for finance department,Indent
+Indent request for 200 envelopes and 100 files,Indent
+Indent for 4 scanners for document processing,Indent
+Indent raised for 12 ceiling fans,Indent
+Indent request for 8 UPS backup systems,Indent
+Indent raised for 2 shredding machines,Indent
+Indent for 10 wall clocks for departments,Indent
+Indent raised for 3 LCD televisions for training hall,Indent
+Indent request for 4 refrigerators for pantry,Indent
+Indent for 30 table fans for office cabins,Indent
+Indent raised for 2 water coolers,Indent
+Indent request for 100 ID card holders,Indent
+Indent raised for 20 extension cords,Indent
+Indent for 2 generators for backup power,Indent
+Indent request for 6 conference tables,Indent
+Indent raised for 10 desktop chairs for HR,Indent
+Indent request for 5 laptop bags,Indent
+Indent for 100 visiting card holders,Indent
+Indent raised for 8 filing cabinets,Indent
+Indent request for 15 keyboards and 15 mice,Indent
+Indent for 12 LED bulbs for corridor,Indent
+Indent raised for 4 projectors,Indent
+Indent request for 5 staplers and 500 pins,Indent
+Indent raised for 20 spiral binders,Indent
+Indent request for 2 photocopiers,Indent
+Indent for 10 lockers for staff,Indent
+Indent raised for 5 mobile phones,Indent
+Indent request for 3 smart TVs,Indent
+Indent for 15 headphones,Indent
+Indent raised for 25 mouse pads,Indent
+Indent request for 200 printing papers,Indent
+Indent for 3 servers for cloud testing,Indent
+Indent raised for 7 wall-mounted shelves,Indent
+Indent request for 10 calculators,Indent
+Indent raised for 2 coffee machines,Indent
+Indent for 50 writing pads,Indent
+Indent request for 100 envelopes,Indent
+Indent for 3 biometric machines,Indent
+Indent raised for 20 whiteboard markers,Indent
+Indent request for 5 microphones,Indent
+Indent raised for 2 conference phones,Indent
+Indent request for 4 digital cameras,Indent
+Indent for 2 water purifiers,Indent
+Indent raised for 10 staplers,Indent
+Indent request for 25 highlighters,Indent
+Indent raised for 6 LED projectors,Indent
+Indent request for 8 air purifiers,Indent
+Indent for 2 shredders,Indent
+Indent raised for 100 clip files,Indent
+Indent request for 12 registers,Indent
+Indent raised for 7 floor mats,Indent
+Indent request for 2 speakers,Indent
+Indent for 15 wall calendars,Indent
+Indent raised for 3 smart boards,Indent
+Indent request for 10 portable fans,Indent
+Indent for 20 table lamps,Indent
+Indent raised for 30 marker pens,Indent
+Indent request for 5 hard disks,Indent
+Indent for 8 wireless keyboards,Indent
+Indent raised for 2 project screens,Indent
+Indent request for 6 extension boards,Indent
+Indent for 10 stapler pins,Indent
+Indent raised for 4 CPU cabinets,Indent
+Indent request for 5 digital clocks,Indent
+Indent for 12 book racks,Indent
+Indent raised for 2 scanners,Indent
+Indent request for 8 ceiling lights,Indent
+Indent for 20 pens,Indent
+Indent raised for 2 laptops,Indent
+Indent request for 3 shredding machines,Indent
+Indent for 10 punch machines,Indent
+Indent raised for 50 chart papers,Indent
+Indent request for 4 modems,Indent
+Indent for 2 laminating machines,Indent
+Indent raised for 12 staplers,Indent
+Indent request for 30 envelopes,Indent
+Indent raised for 8 UPS batteries,Indent
+Indent for 3 lockers,Indent
+Indent raised for 2 printers,Indent
+Indent request for 12 markers,Indent
+Indent raised for 15 notebooks,Indent
+Indent request for 3 conference chairs,Indent
+Indent raised for 10 packing tapes,Indent
+Indent for 6 external monitors,Indent
+Indent raised for 2 fire extinguishers,Indent
+Indent request for 12 ergonomic chairs for the HR department,Indent
+Indent raised for 3 high-speed scanners,Indent
+Indent request for 6 laptops for project staff,Indent
+Indent raised for 15 whiteboards for classrooms,Indent
+Indent request for 4 refrigerators for pantry use,Indent
+Indent request for 50 notepads and 100 pens,Indent
+Indent raised for 2 shredding machines,Indent
+Indent request for 5 biometric attendance devices,Indent
+Indent request for 3 projectors and projection screens,Indent
+Indent raised for 20 office tables and chairs,Indent
+Indent request for 12 ergonomic chairs for the HR department,Indent
+Indent raised for 3 high-speed scanners,Indent
+Indent request for 6 laptops for project staff,Indent
+Indent raised for 15 whiteboards for classrooms,Indent
+Indent request for 4 refrigerators for pantry use,Indent
+Indent request for 50 notepads and 100 pens,Indent
+Indent raised for 2 shredding machines,Indent
+Indent request for 5 biometric attendance devices,Indent
+Indent request for 3 projectors and projection screens,Indent
+Indent raised for 20 office tables and chairs,Indent
+Indent request for 8 filing cabinets for records section,Indent
+Indent raised for 10 conference microphones,Indent
+Indent request for 2 laminating machines,Indent
+Indent raised for 12 wall clocks,Indent
+Indent request for 10 spiral binders and folders,Indent
+Indent raised for 7 lockers for staff quarters,Indent
+Indent request for 3 shredding machines,Indent
+Indent raised for 6 air purifiers,Indent
+Indent request for 10 staplers and 500 pins,Indent
+Indent raised for 15 mouse pads,Indent
+Indent request for 5 extension boards,Indent
+Indent raised for 6 ergonomic chairs for new staff,Indent
+Indent request for 12 A4 reams and 20 staplers,Indent
+Indent request for 8 laptops and 2 printers,Indent
+Indent raised for 5 whiteboards and 10 markers,Indent
+Indent request for 2 shredding machines,Indent
+Indent raised for 50 diaries and 200 pens,Indent
+Indent request for 10 office chairs and tables,Indent
+Indent request for 4 refrigerators for staff canteen,Indent
+Indent request for 3 high-speed scanners,Indent
+Indent raised for 20 office tables and 30 chairs,Indent
+Indent request for 5 biometric devices,Indent
+Indent raised for 15 projectors with screens,Indent
+Indent request for 12 chairs and desks,Indent
+Indent raised for 4 shredding machines,Indent
+Indent request for 6 office cupboards,Indent
+Indent raised for 20 ergonomic chairs,Indent
+Indent request for 2 shredding machines,Indent
+Indent request for 8 office telephones,Indent
+Indent raised for 12 reams of A4 paper,Indent
+Indent request for 5 biometric attendance devices,Indent
+Indent request for 7 LED projectors for classrooms,Indent
+Indent raised for 30 visitor chairs,Indent
+Indent request for 5 digital copiers,Indent
+Indent raised for 100 ID card lanyards,Indent
+Indent request for 20 computer desks,Indent
+Indent raised for 15 executive office chairs,Indent
+Indent request for 40 desk organizers,Indent
+Indent raised for 6 ceiling fans for guest house,Indent
+Indent request for 5 water dispensers,Indent
+Indent raised for 12 Wi-Fi routers,Indent
+Indent request for 7 shredders and dustbins,Indent
+Indent raised for 10 projectors with screens,Indent
+Indent request for 30 mouse pads and keyboards,Indent
+Indent raised for 25 diary planners,Indent
+Indent request for 10 fire extinguishers,Indent
+Indent raised for 2 water purifiers,Indent
+Indent request for 8 filing cabinets,Indent
+Indent raised for 10 wireless headphones,Indent
+Indent request for 6 ergonomic tables,Indent
+Indent raised for 50 letter pads,Indent
+Indent raised for 20 high-performance servers for CDAC HPC lab,Indent
+Indent request for 15 biometric devices for CDAC e-Governance project,Indent
+Indent raised for 10 video conferencing kits for CDAC centers,Indent
+Indent request for 50 Raspberry Pi kits for IoT training,Indent
+Indent raised for 25 laptops for CDAC digital literacy program,Indent
+Indent request for 100 smart ID cards for trainees,Indent
+Indent raised for 15 TB external drives for project archiving,Indent
+Indent request for 8 printers for CDAC academic block,Indent
+Indent raised for 200 training kits for PG-Diploma batches,Indent
+Indent request for 10 projectors for lecture halls,Indent
+Indent raised for 6 UPS systems for training labs,Indent
+Indent request for 12 tablets for digital classroom,Indent
+Indent raised for 50 routers for skill centers,Indent
+Indent request for 15 lab benches for electronics training,Indent
+Indent raised for 30 monitors for AI/ML lab,Indent
+Indent request for 20 headphones for multimedia lab,Indent
+Indent raised for 10 cooling units for server rooms,Indent
+Indent request for 40 switches for networking lab,Indent
+Indent raised for 70 development boards for IoT labs,Indent
+Indent request for 10 digital cameras for research,Indent
+Indent request for 25 desktop systems for CDAC R&D division,Indent
+Indent raised for 10 conference tables for CDAC auditorium,Indent
+Indent request for 5 biometric attendance machines for regional centers,Indent
+Indent raised for 8 UPS systems for server room backup,Indent
+Indent request for 20 ergonomic chairs for HPC lab,Indent
+Indent raised for 4 projectors for training classrooms,Indent
+Indent request for 2 photocopiers for admin block,Indent
+Indent request for 15 printers for regional offices,Indent
+Indent raised for 12 scanners for project use,Indent
+Indent request for 20 data cables for network setup,Indent
+Indent raised for 30 office chairs at CDAC HQ,Indent
+Indent request for 8 smart boards for training halls,Indent
+Indent raised for 25 racks for server storage,Indent
+Indent request for 10 whiteboards for classrooms,Indent
+Indent request for 5 tablets for project monitoring,Indent
+Indent raised for 10 routers for lab setup,Indent
+Indent request for 50 office chairs for new lab,Indent
+Indent raised for 6 laptops for staff,Indent
+Indent request for 4 AC units for office rooms,Indent
+Indent raised for 20 desktops for AI lab,Indent
+Indent request for 50 workstations for newly allocated office space,Indent
+Indent raised for 20 AC units for research labs,Indent
+Indent request for 5 servers for data center setup,Indent
+Indent request for 30 office chairs and 15 tables,Indent
+Indent raised for 200 LED lights for building floors,Indent
+Indent request for 15 desktop computers for admin staff,Indent
+Indent raised for 5 conference tables,Indent
+Indent request for 3 printers and 2 scanners,Indent
+Indent raised for 10 smart TVs for conference halls,Indent
+Indent request for 15 laptops for research scholars,Indent
+Indent raised for 10 cupboards for storage rooms,Indent
+Indent request for 4 refrigerators for pantry,Indent
+Indent raised for 6 projectors for training rooms,Indent
+Indent request for 40 whiteboards for classrooms,Indent
+Indent raised for 10 filing cabinets,Indent
+Indent request for 20 ergonomic chairs,Indent
+Indent raised for 12 biometric attendance devices,Indent
+Indent request for 5 laptops for HR team,Indent
+Indent raised for 3 shredding machines,Indent
+Indent request for 25 desktops for lab setup,Indent
+Commercial invoice for goods shipped on 12th March,Invoice
+Invoice for annual subscription of cloud services,Invoice
+Invoice for delivery of backup tapes,Invoice
+Invoice for generator fuel supply,Invoice
+Invoice for hardware maintenance services,Invoice
+Invoice for laptop repair and parts,Invoice
+Invoice for marketing consultancy charges,Invoice
+Invoice for medical supplies delivered,Invoice
+Invoice for office maintenance work,Invoice
+Invoice for office pantry supplies,Invoice
+Invoice for supply of kitchen equipment,Invoice
+Invoice for supply of printer cartridges,Invoice
+Invoice for training materials and books,Invoice
+Invoice for training program participation fee,Invoice
+Invoice INV-250 for housekeeping contract,Invoice
+Invoice INV-302 for stationery items,Invoice
+Invoice INV-312 for HVAC system maintenance,Invoice
+Invoice issued for annual IT maintenance contract,Invoice
+Invoice issued for canteen management services,Invoice
+Invoice issued for consultancy on policy drafting,Invoice
+Invoice issued for newspaper subscription,Invoice
+Invoice issued for software customization,Invoice
+Invoice number INV-123 for website development,Invoice
+Invoice number INV-202 for security services,Invoice
+Invoice number INV-654 for office furniture purchase,Invoice
+Invoice number INV-720 for consultancy retainer,Invoice
+Invoice number INV-789 for recruitment consultancy,Invoice
+Invoice number INV-800 for freight charges,Invoice
+Invoice number INV-999 for auditing services,Invoice
+Please find enclosed the invoice #INV-234 with GST and amount due 45,Invoice
+Tax invoice issued as per GST Act,Invoice
+Tax invoice issued as per GST Act,Invoice
+Invoice INV-784 issued for annual subscription of antivirus software,Invoice
+Invoice INV-451 raised for digital marketing consultancy services,Invoice
+Invoice INV-932 for design and printing of office brochures,Invoice
+Invoice INV-505 for supply of networking cables,Invoice
+Invoice INV-660 for website development services,Invoice
+Invoice INV-711 raised for auditing consultancy,Invoice
+Invoice INV-303 issued for HVAC system maintenance,Invoice
+Invoice INV-887 raised for consultancy retainership,Invoice
+Invoice INV-624 for cloud hosting subscription renewal,Invoice
+Invoice INV-980 for generator fuel delivery,Invoice
+Invoice INV-784 issued for annual subscription of antivirus software,Invoice
+Invoice INV-451 raised for digital marketing consultancy services,Invoice
+Invoice INV-932 for design and printing of office brochures,Invoice
+Invoice INV-505 for supply of networking cables,Invoice
+Invoice INV-660 for website development services,Invoice
+Invoice INV-711 raised for auditing consultancy,Invoice
+Invoice INV-303 issued for HVAC system maintenance,Invoice
+Invoice INV-887 raised for consultancy retainership,Invoice
+Invoice INV-624 for cloud hosting subscription renewal,Invoice
+Invoice INV-980 for generator fuel delivery,Invoice
+Invoice INV-445 for supply of fire extinguishers,Invoice
+Invoice INV-320 raised for medical supply delivery,Invoice
+Invoice INV-221 for branding and publicity work,Invoice
+Invoice INV-555 issued for fire safety training workshop,Invoice
+Invoice INV-812 for annual membership renewal of library,Invoice
+Invoice INV-370 for translation of technical documents,Invoice
+Invoice INV-644 raised for courier logistics partner,Invoice
+Invoice INV-913 issued for consultancy on HR policy drafting,Invoice
+Invoice INV-510 raised for UPS system maintenance,Invoice
+Invoice INV-122 issued for cloud backup services,Invoice
+Invoice INV-702 raised for employee health checkup program,Invoice
+Invoice INV-145 issued for annual software licensing,Invoice
+Invoice INV-672 raised for digital training modules,Invoice
+Invoice INV-314 for purchase of IT hardware servers,Invoice
+Invoice INV-759 raised for supply of UPS batteries,Invoice
+Invoice INV-901 for professional consultancy fees,Invoice
+Invoice INV-528 issued for event photography services,Invoice
+Invoice INV-845 for data recovery services,Invoice
+Invoice INV-430 for cloud hosting subscription,Invoice
+Invoice INV-923 issued for design brochure printing,Invoice
+Invoice INV-576 raised for web development services,Invoice
+Invoice INV-204 issued for professional auditing services,Invoice
+Invoice INV-648 raised for HVAC repair contract,Invoice
+Invoice INV-832 for annual website hosting,Invoice
+Invoice INV-377 for subscription of antivirus tools,Invoice
+Invoice INV-965 raised for staff training services,Invoice
+Invoice INV-492 for consultancy retainership services,Invoice
+Invoice INV-889 for installation of CCTV cameras,Invoice
+Invoice INV-540 issued for graphic design services,Invoice
+Invoice INV-274 raised for website content writing,Invoice
+Invoice INV-715 for subscription of cloud storage,Invoice
+Invoice INV-611 issued for conference registration fees,Invoice
+Invoice INV-452 raised for interior design consultancy,Invoice
+Invoice INV-784 for annual ERP software subscription,Invoice
+Invoice INV-335 raised for office relocation services,Invoice
+Invoice INV-950 for purchase of IT accessories,Invoice
+Invoice INV-523 issued for software bug fixing,Invoice
+Invoice INV-801 raised for digital marketing package,Invoice
+Invoice INV-206 issued for mobile app development,Invoice
+Invoice INV-674 raised for annual HR consultancy fees,Invoice
+Invoice INV-942 issued for event management services,Invoice
+Invoice INV-511 for social media management services,Invoice
+Invoice INV-807 raised for HR payroll outsourcing,Invoice
+Invoice INV-421 for staff transport contract,Invoice
+Invoice INV-978 raised for professional proofreading services,Invoice
+Invoice INV-663 issued for industrial training fees,Invoice
+Invoice INV-375 raised for system security audit,Invoice
+Invoice INV-899 issued for subscription of project tools,Invoice
+Invoice INV-268 raised for graphic video production,Invoice
+Invoice INV-755 issued for AI training services,Invoice
+Invoice INV-442 for legal consultancy retainership,Invoice
+Invoice INV-1001 issued for CDAC training program fees,Invoice
+Invoice INV-1002 raised for software license renewal (CDAC project),Invoice
+Invoice INV-1003 raised for consultancy provided to state e-Governance dept,Invoice
+Invoice INV-1004 for training conducted under NIELIT-CDAC MoU,Invoice
+Invoice INV-1005 issued for cloud consultancy for govt dept,Invoice
+Invoice INV-1006 for GPU server rental to research collaborators,Invoice
+Invoice INV-1007 issued for cloud hosting provided to startups,Invoice
+Invoice INV-1008 raised for AI workshop participation fees,Invoice
+Invoice INV-1009 for government project consultancy fees,Invoice
+Invoice INV-1010 issued for AI model deployment services,Invoice
+Invoice INV-1011 raised for digital library setup fees,Invoice
+Invoice INV-1012 issued for cloud credits purchased,Invoice
+Invoice INV-1013 raised for consulting on AI ethics framework,Invoice
+Invoice INV-1014 issued for hardware integration services,Invoice
+Invoice INV-1015 for language computing project services,Invoice
+Invoice INV-1016 raised for GIS project consultancy,Invoice
+Invoice INV-1017 issued for HPC consulting services,Invoice
+Invoice INV-1018 raised for e-Governance project support,Invoice
+Invoice INV-1019 issued for software localization services,Invoice
+Invoice INV-1020 raised for collaboration with state IT dept,Invoice
+Invoice INV-301 raised for AI training program hosted by CDAC Pune,Invoice
+Invoice INV-302 for licensing fee of MATLAB for research labs,Invoice
+Invoice INV-303 issued for consultancy on cybersecurity project,Invoice
+Invoice INV-304 for maintenance of software licenses,Invoice
+Invoice INV-305 raised for subscription of cloud compute credits,Invoice
+Invoice INV-306 issued for project management consultancy services,Invoice
+Invoice INV-307 for server maintenance services,Invoice
+Invoice INV-308 raised for AI workshop consultancy,Invoice
+Invoice INV-309 for e-learning portal maintenance,Invoice
+Invoice INV-310 issued for training program on IoT,Invoice
+Invoice INV-311 for technical support of ERP software,Invoice
+Invoice INV-312 for supply of printed journals,Invoice
+Invoice INV-313 raised for R&D partnership consultancy,Invoice
+Invoice INV-314 issued for digital marketing of CDAC event,Invoice
+Invoice INV-315 raised for project documentation services,Invoice
+Invoice INV-316 for training on quantum computing,Invoice
+Invoice INV-317 for annual renewal of firewall subscription,Invoice
+Invoice INV-318 raised for consulting on AI ethics,Invoice
+Invoice INV-319 issued for mobile app development,Invoice
+Invoice INV-320 raised for web development workshop,Invoice
+Invoice INV-1001 for civil construction services at CDAC Guwahati Research Park,Invoice
+Invoice INV-1002 issued for networking equipment supply,Invoice
+Invoice INV-1003 raised for CCTV surveillance system,Invoice
+Invoice INV-1004 for branding and signage work,Invoice
+Invoice INV-1005 raised for cloud service subscription,Invoice
+Invoice INV-1006 for HVAC maintenance contract,Invoice
+Invoice INV-1007 issued for flooring and carpeting work,Invoice
+Invoice INV-1008 for UPS and backup systems,Invoice
+Invoice INV-1009 issued for interior decoration services,Invoice
+Invoice INV-1010 raised for external audit charges,Invoice
+Invoice INV-1011 for printing annual reports,Invoice
+Invoice INV-1012 for supply of office stationary,Invoice
+Invoice INV-1013 raised for legal consultancy services,Invoice
+Invoice INV-1014 issued for construction materials,Invoice
+Invoice INV-1015 raised for interior glass partitions,Invoice
+Invoice INV-1016 issued for solar panel supply,Invoice
+Invoice INV-1017 raised for pest control contract,Invoice
+Invoice INV-1018 issued for cafeteria furniture supply,Invoice
+Invoice INV-1019 raised for flooring tiles supply,Invoice
+Invoice INV-1020 issued for DG set maintenance,Invoice
+"""Invoice No INV-001 Date Amount 7500""",Invoice
+"""Invoice No INV-002 Date Amount 12000""",Invoice
+"""Invoice No INV-101 Date Amount 5500"", ""Invoice for office supplies August 2025"", …",Invoice
+Invoice No INV-101 Date Amount 5500,Invoice
+Invoice for office supplies August 2025,Invoice
+Invoice No INV-102 Payment pending 12000,Invoice
+Invoice for stationery items July 2025,Invoice
+Office equipment invoice INV-103,Invoice
+Invoice for printer cartridges INV-104,Invoice
+Invoice for monthly internet charges INV-105,Invoice
+Invoice for computer peripherals INV-106,Invoice
+Invoice No INV-107 for office chairs,Invoice
+Invoice for annual software license INV-108,Invoice
+"""Leave application submitted by employee""",Leave Application
+"""Request for leave from 20 Aug to 25 Aug 2025""",Leave Application
+"""Employee leave application for 3 days"", …",Leave Application
+Employee leave application for 3 days,Leave Application
+Leave application from 20 Aug to 25 Aug,Leave Application
+Leave request for medical reasons,Leave Application
+Leave application for personal work,Leave Application
+Annual leave application for 5 days,Leave Application
+Leave request for office duty off,Leave Application
+Leave application for training program,Leave Application
+Leave application for maternity leave,Leave Application
+Short leave application for half day,Leave Application
+Leave request for urgent family work,Leave Application
+"""Meeting minutes: discussed project timeline""",Minutes
+"""Minutes of staff meeting held on 19 Aug 2025""",Minutes
+"""Minutes of meeting held on 20 Aug 2025"", …",Minutes
+Minutes of meeting held on 20 Aug 2025,Minutes
+Minutes of staff meeting regarding project,Minutes
+Minutes of departmental meeting,Minutes
+Meeting minutes: Budget discussion,Minutes
+Minutes of team meeting on new hires,Minutes
+Minutes of client meeting,Minutes
+Minutes of management review meeting,Minutes
+Minutes for board meeting,Minutes
+Minutes of weekly office meeting,Minutes
+Minutes of monthly review meeting,Minutes
+Circular note: holiday declared on Independence Day,Note
+Confidential note on project status update,Note
+Confidential note prepared about audit observations (Note ID 54),Note
+Confidential note prepared about budget allocation (Note ID 100),Note
+Confidential note prepared about budget allocation (Note ID 11),Note
+Confidential note prepared about budget allocation (Note ID 28),Note
+Confidential note prepared about budget allocation (Note ID 45),Note
+Confidential note prepared about budget allocation (Note ID 72),Note
+Confidential note prepared about disciplinary action (Note ID 24),Note
+Confidential note prepared about disciplinary action (Note ID 33),Note
+Confidential note prepared about disciplinary action (Note ID 49),Note
+Confidential note prepared about IT system upgrade (Note ID 47),Note
+Confidential note prepared about IT system upgrade (Note ID 83),Note
+Confidential note prepared about IT system upgrade (Note ID 88),Note
+Confidential note prepared about leave encashment policy (Note ID 55),Note
+Confidential note prepared about leave encashment policy (Note ID 56),Note
+Confidential note prepared about leave encashment policy (Note ID 8),Note
+Confidential note prepared about leave encashment policy (Note ID 97),Note
+Confidential note prepared about meeting agenda (Note ID 40),Note
+Confidential note prepared about new training session (Note ID 36),Note
+Confidential note prepared about new training session (Note ID 93),Note
+Confidential note prepared about staff transfer orders (Note ID 19),Note
+Confidential note prepared about staff transfer orders (Note ID 46),Note
+Confidential note prepared about staff transfer orders (Note ID 6),Note
+Confidential note prepared about staff transfer orders (Note ID 73),Note
+Confidential note prepared about staff transfer orders (Note ID 81),Note
+Confidential note prepared about staff transfer orders (Note ID 90),Note
+Internal note: audit observations requires management review (Note ID 65),Note
+Internal note: audit observations requires management review (Note ID 67),Note
+Internal note: budget allocation requires management review (Note ID 29),Note
+Internal note: disciplinary action requires management review (Note ID 35),Note
+Internal note: disciplinary action requires management review (Note ID 87),Note
+Internal note: IT system upgrade requires management review (Note ID 22),Note
+Internal note: IT system upgrade requires management review (Note ID 69),Note
+Internal note: IT system upgrade requires management review (Note ID 82),Note
+Internal note: IT system upgrade requires management review (Note ID 95),Note
+Internal note: new training session requires management review (Note ID 1),Note
+Internal note: new training session requires management review (Note ID 12),Note
+Internal note: new training session requires management review (Note ID 31),Note
+Internal note: new training session requires management review (Note ID 42),Note
+Internal note: policy updated for leave encashment,Note
+Internal note: policy updated for leave encashment,Note
+Internal note: staff transfer orders requires management review (Note ID 25),Note
+Internal note: staff transfer orders requires management review (Note ID 60),Note
+Internal note: staff transfer orders requires management review (Note ID 63),Note
+Internal note: staff transfer orders requires management review (Note ID 98),Note
+Note on audit observations,Note
+Note on budget allocation for FY 2025-26,Note
+Note on delegation visit arrangements,Note
+Note on IT asset verification exercise,Note
+Note on pending leave requests,Note
+Note on revised travel reimbursement policy,Note
+Note on security arrangements for event,Note
+Note regarding audit observations shared with all staff (Note ID 18),Note
+Note regarding audit observations shared with all staff (Note ID 43),Note
+Note regarding audit observations shared with all staff (Note ID 44),Note
+Note regarding audit observations shared with all staff (Note ID 74),Note
+Note regarding budget allocation shared with all staff (Note ID 59),Note
+Note regarding budget allocation shared with all staff (Note ID 62),Note
+Note regarding budget allocation shared with all staff (Note ID 85),Note
+Note regarding disciplinary action shared with all staff (Note ID 17),Note
+Note regarding disciplinary action shared with all staff (Note ID 23),Note
+Note regarding disciplinary action shared with all staff (Note ID 79),Note
+Note regarding HR induction program,Note
+Note regarding IT system upgrade proposal,Note
+Note regarding IT system upgrade shared with all staff (Note ID 75),Note
+Note regarding IT system upgrade shared with all staff (Note ID 92),Note
+Note regarding leave encashment policy shared with all staff (Note ID 15),Note
+Note regarding meeting agenda shared with all staff (Note ID 14),Note
+Note regarding meeting agenda shared with all staff (Note ID 3),Note
+Note regarding meeting agenda shared with all staff (Note ID 39),Note
+Note regarding new training session shared with all staff (Note ID 13),Note
+Note regarding new training session shared with all staff (Note ID 41),Note
+Note regarding new training session shared with all staff (Note ID 48),Note
+Note regarding new training session shared with all staff (Note ID 50),Note
+Note regarding new training session shared with all staff (Note ID 91),Note
+Note regarding new training session shared with all staff (Note ID 96),Note
+Note regarding official vehicle maintenance,Note
+Note regarding performance appraisal process,Note
+Note regarding staff transfer orders shared with all staff (Note ID 20),Note
+Note regarding staff transfer orders shared with all staff (Note ID 27),Note
+Note regarding staff transfer orders shared with all staff (Note ID 34),Note
+Note regarding staff transfer orders shared with all staff (Note ID 61),Note
+Note regarding staff transfer orders shared with all staff (Note ID 68),Note
+Note: approval required for new HR policy draft,Note
+Note: briefing for upcoming inspection,Note
+Note: circulation of revised guidelines,Note
+Note: confidential HR planning note,Note
+Note: extension of project deadline,Note
+Note: file movement to finance department,Note
+Note: HR communication regarding leave balance,Note
+Note: internal approval for conference,Note
+Note: notification about staff training workshop,Note
+Note: official delegation to New Delhi,Note
+Note: policy draft on employee wellness,Note
+Note: progress report of training program,Note
+Note: reminder for meeting with client,Note
+Note: reminder for tax return filing,Note
+Note: review meeting scheduled with management,Note
+Note: staff meeting minutes recorded,Note
+Note: training session scheduled on Friday at 11 AM,Note
+Note: working committee meeting minutes,Note
+Office memo regarding meeting schedule,Note
+Office memo regarding meeting schedule,Note
+Official note on audit observations circulated today (Note ID 51),Note
+Official note on audit observations circulated today (Note ID 58),Note
+Official note on audit observations circulated today (Note ID 78),Note
+Official note on budget allocation circulated today (Note ID 2),Note
+Official note on budget allocation circulated today (Note ID 52),Note
+Official note on budget allocation circulated today (Note ID 84),Note
+Official note on disciplinary action circulated today (Note ID 16),Note
+Official note on IT system upgrade circulated today (Note ID 66),Note
+Official note on leave encashment policy circulated today (Note ID 5),Note
+Official note on leave encashment policy circulated today (Note ID 53),Note
+Official note on leave encashment policy circulated today (Note ID 86),Note
+Official note on meeting agenda circulated today (Note ID 71),Note
+Official note on staff transfer orders circulated today (Note ID 21),Note
+Official note on staff transfer orders circulated today (Note ID 32),Note
+Official note on staff transfer orders circulated today (Note ID 9),Note
+Short note: update on audit observations (Note ID 70),Note
+Short note: update on audit observations (Note ID 80),Note
+Short note: update on audit observations (Note ID 94),Note
+Short note: update on budget allocation (Note ID 99),Note
+Short note: update on disciplinary action (Note ID 57),Note
+Short note: update on IT system upgrade (Note ID 64),Note
+Short note: update on IT system upgrade (Note ID 77),Note
+Short note: update on leave encashment policy (Note ID 30),Note
+Short note: update on leave encashment policy (Note ID 4),Note
+Short note: update on meeting agenda (Note ID 10),Note
+Short note: update on meeting agenda (Note ID 37),Note
+Short note: update on meeting agenda (Note ID 38),Note
+Short note: update on new training session (Note ID 26),Note
+Short note: update on new training session (Note ID 7),Note
+Short note: update on new training session (Note ID 89),Note
+Short note: update on staff transfer orders (Note ID 76),Note
+Note: Internal update on budget allocation for FY 2025-26,Note
+Note regarding leave encashment policy revision,Note
+Note circulated about upcoming management meeting,Note
+Confidential note on IT system upgrade proposal,Note
+Note regarding delegation visit arrangements,Note
+Note: reminder about staff appraisal submissions,Note
+Note circulated on revised HR policies,Note
+Note on staff transfer order approvals,Note
+Note on training session scheduled for Friday,Note
+Note: progress update on audit findings,Note
+Note: Internal update on budget allocation for FY 2025-26,Note
+Note regarding leave encashment policy revision,Note
+Note circulated about upcoming management meeting,Note
+Confidential note on IT system upgrade proposal,Note
+Note regarding delegation visit arrangements,Note
+Note: reminder about staff appraisal submissions,Note
+Note circulated on revised HR policies,Note
+Note on staff transfer order approvals,Note
+Note on training session scheduled for Friday,Note
+Note: progress update on audit findings,Note
+Note regarding disciplinary committee meeting,Note
+Note about event planning for Independence Day,Note
+Note on staff health and wellness policy,Note
+Note: reminder about tax return filing deadline,Note
+Note regarding IT asset verification process,Note
+Note: follow-up on pending leave applications,Note
+Note on performance appraisal committee decisions,Note
+Note circulated about upcoming board meeting,Note
+Note: update on IT server room renovation,Note
+Note: urgent reminder about internal audit schedule,Note
+Note on guest lecture arrangements for students,Note
+Internal note on restructuring of finance department,Note
+Note circulated regarding staff meeting reschedule,Note
+Note: Policy revision for staff leave encashment,Note
+Note regarding holiday list for 2025,Note
+Confidential note on partnership proposal,Note
+Note circulated on change of office timings,Note
+Note: update on IT audit progress,Note
+Note on arrangements for visiting delegation,Note
+Note circulated about annual appraisal reminders,Note
+Internal note on budget approval process,Note
+Note regarding training workshop schedule,Note
+Note on revised HR policies update,Note
+Note: Reminder on tax filing deadlines,Note
+Internal note regarding asset disposal policy,Note
+Note circulated about festival holiday schedule,Note
+Note on review of performance appraisals,Note
+Note: confidential on project bidding strategy,Note
+Note circulated about upcoming workshop,Note
+Note: update on employee transfer orders,Note
+Internal note on internal audit results,Note
+Note circulated on revision of staff insurance policy,Note
+Internal note regarding security compliance audit,Note
+Note on scheduling of staff orientation,Note
+Note circulated regarding employee grievance redressal,Note
+Note regarding upcoming ISO certification audit,Note
+Note: update on pending project deliverables,Note
+Confidential note on strategic tie-up proposals,Note
+Note circulated regarding leave application rules,Note
+Note on finalization of annual accounts,Note
+Note circulated about policy for overtime claims,Note
+Note on updating training curriculum,Note
+Note circulated on inter-department transfers,Note
+Note: confidential – merger negotiation update,Note
+Note on update of grievance redressal committee,Note
+Note circulated on revised TA/DA policy,Note
+Note on clarification of leave rules,Note
+Internal note about cross-functional workshop,Note
+Note circulated on gender equality training,Note
+Note on formation of new internal committee,Note
+Note: urgent – revision of IT usage guidelines,Note
+Note circulated regarding CDAC Research Advisory Committee meeting,Note
+Note on scheduling of faculty training under CDAC Skill Development,Note
+Note circulated on collaboration with academic institutes,Note
+Note regarding preparation for DBT-BIRAC BioAI proposal,Note
+Note circulated on HPC supercomputer upgrade project,Note
+Note regarding AI toolkit launch under CDAC Academy,Note
+Note on submission of quarterly progress to MeitY,Note
+Note circulated regarding cyber forensic division activities,Note
+Note regarding compliance of ISO standards in projects,Note
+Note circulated on MoU signing with IITs,Note
+Note on expansion of CDAC incubation programs,Note
+Note regarding faculty participation in international conference,Note
+Note on update of annual strategic roadmap,Note
+Note circulated on revised HR training schedule,Note
+Note regarding student internship approvals,Note
+Note circulated on state-level digital literacy program,Note
+Note regarding submission of AI survey paper,Note
+Note circulated on proposal writing workshop,Note
+Note on training evaluation feedback collection,Note
+Note circulated on staff recruitment process update,Note
+Note: Internal update regarding MoU with IIT Guwahati,Note
+Note: Circular on revised guidelines for employee reimbursements,Note
+Note: Internal review meeting scheduled for National Supercomputing Mission,Note
+Note on upcoming CDAC Hackathon event preparation,Note
+Note: Policy update on employee promotion process,Note
+Note circulated regarding cybersecurity awareness training,Note
+Note regarding internal audit findings on procurement,Note
+Note on staff deputation to international conference,Note
+Note circulated regarding revised travel policy,Note
+Note: Staff welfare committee meeting update,Note
+Note on revised HR leave guidelines,Note
+Note regarding IT policy compliance,Note
+Note: Internal review of CDAC cloud initiatives,Note
+Note circulated on IT security incident response plan,Note
+Note regarding preparation of Annual Report,Note
+Note on CDAC alumni meet preparations,Note
+Note on internal guidelines for project funding,Note
+Note on CDAC collaboration with NIT Silchar,Note
+Note: Update on official holiday calendar,Note
+Note regarding staff welfare activities,Note
+Internal note: Approval required for staff seating plan in new facility,Note
+Confidential note on security protocol design for Guwahati center,Note
+Note: Allocation of parking slots for staff vehicles,Note
+Internal note: Fire safety compliance report submitted,Note
+Note on allocation of server room space in Guwahati office,Note
+Note regarding visitor entry pass system installation,Note
+Note: Policy update for asset tagging of new equipment,Note
+Internal note regarding staff cab service arrangement,Note
+Note: Meeting summary on relocation of staff to Guwahati,Note
+Confidential note regarding budget revisions,Note
+Note regarding allocation of workstations to departments,Note
+Note circulated about health and safety briefing,Note
+Note: Update on internet service provider selection,Note
+Note regarding handover schedule of Phase 1 building,Note
+Internal note: Request for additional budget allocation,Note
+Note regarding finalization of office layout,Note
+Note circulated about inaugural event planning,Note
+Note regarding relocation support for employees,Note
+Note circulated on staff transport arrangement,Note
+Note: Progress report on Guwahati office readiness,Note
+"""Please approve this office note regarding new policy""",Note
+"""Internal memo: meeting scheduled at 10 AM""",Note
+"""Please approve office note regarding leave policy"", …",Note
+Please approve office note regarding leave policy,Note
+Internal office note about new IT rules,Note
+Note for approval of budget allocation,Note
+Office note: maintenance request,Note
+Note regarding employee training schedule,Note
+Internal note for meeting agenda,Note
+Note for procurement approval,Note
+Note regarding company holidays,Note
+Office note: project milestone update,Note
+Note for safety guidelines implementation,Note
+"""Purchase order for 20 laptops""",Purchase Order
+"""PO for office furniture procurement""",Purchase Order
+"""Purchase order for 15 chairs"", …",Purchase Order
+Purchase order for 15 chairs,Purchase Order
+PO for 10 laptops,Purchase Order
+Purchase order for office desks,Purchase Order
+PO for printer cartridges,Purchase Order
+Purchase order for software license,Purchase Order
+PO for conference room chairs,Purchase Order
+Purchase order for office tables,Purchase Order
+PO for whiteboards,Purchase Order
+Purchase order for projectors,Purchase Order
+PO for air conditioners,Purchase Order
+"""Receipt for payment of office stationery""",Receipt
+"""Receipt for official travel reimbursement""",Receipt
+"""Receipt for payment of office lunch"", …",Receipt
+Receipt for payment of office lunch,Receipt
+Receipt for payment of office stationery,Receipt
+Receipt for travel reimbursement,Receipt
+Receipt for printer repair service,Receipt
+Receipt for internet bill payment,Receipt
+Receipt for office equipment purchase,Receipt
+Receipt for courier charges,Receipt
+Receipt for office maintenance,Receipt
+Receipt for cleaning service payment,Receipt
+Receipt for security service charges,Receipt
+E-tender published regarding canteen management services (Tender No. 145),Tender
+E-tender published regarding civil construction works (Tender No. 155),Tender
+E-tender published regarding civil construction works (Tender No. 175),Tender
+E-tender published regarding civil construction works (Tender No. 182),Tender
+E-tender published regarding civil construction works (Tender No. 200),Tender
+E-tender published regarding installation of CCTV cameras (Tender No. 110),Tender
+E-tender published regarding installation of CCTV cameras (Tender No. 113),Tender
+E-tender published regarding installation of CCTV cameras (Tender No. 191),Tender
+E-tender published regarding office building maintenance (Tender No. 130),Tender
+E-tender published regarding outsourcing housekeeping (Tender No. 101),Tender
+E-tender published regarding outsourcing housekeeping (Tender No. 168),Tender
+E-tender published regarding outsourcing housekeeping (Tender No. 171),Tender
+E-tender published regarding printing annual reports (Tender No. 136),Tender
+E-tender published regarding printing annual reports (Tender No. 139),Tender
+E-tender published regarding supply of lab chemicals (Tender No. 127),Tender
+E-tender published regarding supply of lab chemicals (Tender No. 149),Tender
+Limited tender enquiry for canteen management services (Tender No. 118),Tender
+Limited tender enquiry for canteen management services (Tender No. 121),Tender
+Limited tender enquiry for civil construction works (Tender No. 153),Tender
+Limited tender enquiry for civil construction works (Tender No. 178),Tender
+Limited tender enquiry for civil construction works (Tender No. 194),Tender
+Limited tender enquiry for installation of CCTV cameras (Tender No. 105),Tender
+Limited tender enquiry for installation of CCTV cameras (Tender No. 164),Tender
+Limited tender enquiry for installation of CCTV cameras (Tender No. 173),Tender
+Limited tender enquiry for installation of CCTV cameras (Tender No. 181),Tender
+Limited tender enquiry for installation of CCTV cameras (Tender No. 190),Tender
+Limited tender enquiry for office building maintenance (Tender No. 119),Tender
+Limited tender enquiry for office building maintenance (Tender No. 141),Tender
+Limited tender enquiry for office building maintenance (Tender No. 160),Tender
+Limited tender enquiry for office building maintenance (Tender No. 184),Tender
+Limited tender enquiry for office building maintenance (Tender No. 198),Tender
+Limited tender enquiry for outsourcing housekeeping (Tender No. 166),Tender
+Limited tender enquiry for outsourcing housekeeping (Tender No. 192),Tender
+Limited tender enquiry for outsourcing housekeeping (Tender No. 193),Tender
+Limited tender enquiry for outsourcing housekeeping (Tender No. 199),Tender
+Limited tender enquiry for printing annual reports (Tender No. 120),Tender
+Limited tender enquiry for procurement of IT hardware (Tender No. 146),Tender
+Limited tender enquiry for supply of lab chemicals (Tender No. 143),Tender
+Limited tender enquiry for supply of lab chemicals (Tender No. 167),Tender
+Limited tender enquiry for supply of lab chemicals (Tender No. 179),Tender
+Open tender released for canteen management services (Tender No. 103),Tender
+Open tender released for canteen management services (Tender No. 111),Tender
+Open tender released for canteen management services (Tender No. 114),Tender
+Open tender released for civil construction works (Tender No. 138),Tender
+Open tender released for installation of CCTV cameras (Tender No. 109),Tender
+Open tender released for installation of CCTV cameras (Tender No. 128),Tender
+Open tender released for installation of CCTV cameras (Tender No. 154),Tender
+Open tender released for office building maintenance (Tender No. 131),Tender
+Open tender released for office building maintenance (Tender No. 157),Tender
+Open tender released for office building maintenance (Tender No. 163),Tender
+Open tender released for office building maintenance (Tender No. 169),Tender
+Open tender released for office building maintenance (Tender No. 180),Tender
+Open tender released for office building maintenance (Tender No. 197),Tender
+Open tender released for outsourcing housekeeping (Tender No. 112),Tender
+Open tender released for outsourcing housekeeping (Tender No. 144),Tender
+Open tender released for printing annual reports (Tender No. 151),Tender
+Open tender released for printing annual reports (Tender No. 158),Tender
+Open tender released for printing annual reports (Tender No. 159),Tender
+Open tender released for printing annual reports (Tender No. 172),Tender
+Open tender released for printing annual reports (Tender No. 195),Tender
+Open tender released for procurement of IT hardware (Tender No. 129),Tender
+Open tender released for supply of lab chemicals (Tender No. 170),Tender
+Open tender released for supply of lab chemicals (Tender No. 185),Tender
+Open tender released for supply of lab chemicals (Tender No. 187),Tender
+Request for quotation under tender no. 19/2025,Tender
+Request for quotation under tender no. 19/2025,Tender
+Sealed bids invited for canteen management services (Tender No. 104),Tender
+Sealed bids invited for canteen management services (Tender No. 107),Tender
+Sealed bids invited for canteen management services (Tender No. 137),Tender
+Sealed bids invited for civil construction works (Tender No. 132),Tender
+Sealed bids invited for civil construction works (Tender No. 177),Tender
+Sealed bids invited for civil construction works (Tender No. 196),Tender
+Sealed bids invited for installation of CCTV cameras (Tender No. 106),Tender
+Sealed bids invited for installation of CCTV cameras (Tender No. 150),Tender
+Sealed bids invited for installation of CCTV cameras (Tender No. 162),Tender
+Sealed bids invited for installation of CCTV cameras (Tender No. 189),Tender
+Sealed bids invited for office building maintenance (Tender No. 126),Tender
+Sealed bids invited for office building maintenance (Tender No. 176),Tender
+Sealed bids invited for outsourcing housekeeping (Tender No. 124),Tender
+Sealed bids invited for printing annual reports (Tender No. 125),Tender
+Sealed bids invited for procurement of IT hardware (Tender No. 117),Tender
+Sealed bids invited for supply of lab chemicals (Tender No. 123),Tender
+Sealed bids invited for supply of lab chemicals (Tender No. 152),Tender
+Tender advertisement for photocopy machine supply,Tender
+Tender advertisement for software AMC,Tender
+Tender call for outsourcing housekeeping services,Tender
+Tender document inviting bids for office renovation,Tender
+Tender floated for annual maintenance services,Tender
+Tender floated for cloud hosting provider,Tender
+Tender floated for hiring security agency,Tender
+Tender floated for manpower supply services,Tender
+Tender floated for supply of diesel generators,Tender
+Tender floated for supply of laboratory chemicals,Tender
+Tender for hiring transport contractor,Tender
+Tender for printing and binding of examination papers,Tender
+Tender for printing banners and flex boards,Tender
+Tender for recruitment of manpower agency,Tender
+Tender for supply of networking cables,Tender
+Tender for supply of transport vehicles,Tender
+Tender for supply of uniforms for staff,Tender
+Tender invitation for ERP system implementation,Tender
+Tender invitation for green energy provider,Tender
+Tender invitation: printing of annual reports,Tender
+Tender issued for canteen vendor selection,Tender
+Tender notice for annual health checkup services,Tender
+Tender notice for civil construction works,Tender
+Tender notice for office shifting services,Tender
+Tender notice for painting work of office,Tender
+Tender notice for procurement of CCTV cameras,Tender
+Tender notice for procurement of lab equipment,Tender
+Tender notice for software license purchase,Tender
+Tender notice for supply of office stationery,Tender
+Tender notice inviting bids for canteen management services (Tender No. 161),Tender
+Tender notice inviting bids for civil construction works (Tender No. 174),Tender
+Tender notice inviting bids for civil construction works (Tender No. 186),Tender
+Tender notice inviting bids for installation of CCTV cameras (Tender No. 115),Tender
+Tender notice inviting bids for installation of CCTV cameras (Tender No. 156),Tender
+Tender notice inviting bids for office building maintenance (Tender No. 102),Tender
+Tender notice inviting bids for office building maintenance (Tender No. 135),Tender
+Tender notice inviting bids for office building maintenance (Tender No. 142),Tender
+Tender notice inviting bids for outsourcing housekeeping (Tender No. 116),Tender
+Tender notice inviting bids for outsourcing housekeeping (Tender No. 134),Tender
+Tender notice inviting bids for printing annual reports (Tender No. 108),Tender
+Tender notice inviting bids for printing annual reports (Tender No. 140),Tender
+Tender notice inviting bids for printing annual reports (Tender No. 147),Tender
+Tender notice inviting bids for printing annual reports (Tender No. 165),Tender
+Tender notice inviting bids for procurement of IT hardware (Tender No. 122),Tender
+Tender notice inviting bids for procurement of IT hardware (Tender No. 133),Tender
+Tender notice inviting bids for procurement of IT hardware (Tender No. 148),Tender
+Tender notice inviting bids for solar panel installation,Tender
+Tender notice inviting bids for supply of lab chemicals (Tender No. 183),Tender
+Tender notice inviting bids for supply of lab chemicals (Tender No. 188),Tender
+Tender notice inviting bids for supply of water bottles,Tender
+Tender notice: sealed bids must be submitted by 30 Sept,Tender
+Tender notice: sealed bids must be submitted by 30 Sept,Tender
+Tender notice inviting bids for outsourcing security services,Tender
+Tender issued for supply of laboratory glassware,Tender
+Tender published for cafeteria vendor selection,Tender
+Tender floated for printing of annual reports,Tender
+Tender notice for procurement of smart boards,Tender
+Tender floated for IT hardware supply contract,Tender
+Tender published for supply of diesel generators,Tender
+Tender issued for housekeeping services contract,Tender
+Tender call for outsourcing transport vehicles,Tender
+Tender floated for procurement of CCTV cameras,Tender
+Tender notice inviting bids for outsourcing security services,Tender
+Tender issued for supply of laboratory glassware,Tender
+Tender published for cafeteria vendor selection,Tender
+Tender floated for printing of annual reports,Tender
+Tender notice for procurement of smart boards,Tender
+Tender floated for IT hardware supply contract,Tender
+Tender published for supply of diesel generators,Tender
+Tender issued for housekeeping services contract,Tender
+Tender call for outsourcing transport vehicles,Tender
+Tender floated for procurement of CCTV cameras,Tender
+Tender advertisement for recruitment of manpower agency,Tender
+Tender published for lab equipment maintenance,Tender
+Tender floated for cleaning and sanitation vendor,Tender
+Tender call for ERP software system procurement,Tender
+Tender floated for annual health checkup service,Tender
+Tender published for cafeteria food supply contract,Tender
+Tender notice for supply of conference furniture,Tender
+Tender published for procurement of solar panels,Tender
+Tender notice inviting quotations for lab chemicals,Tender
+Tender floated for digital learning software licenses,Tender
+Tender published for CCTV installation services,Tender
+Tender notice for procurement of air conditioners,Tender
+Tender published for website redevelopment services,Tender
+Tender floated for cafeteria management services,Tender
+Tender call for supply of classroom furniture,Tender
+Tender floated for digital signage systems,Tender
+Tender published for supply of solar panels,Tender
+Tender notice for procurement of printers,Tender
+Tender floated for transport vehicle hire services,Tender
+Tender notice for procurement of CCTV equipment,Tender
+Tender floated for supply of stationery materials,Tender
+Tender published for diesel generator supply,Tender
+Tender floated for cafeteria vendor empanelment,Tender
+Tender published for outsourcing security guards,Tender
+Tender call for empanelment of travel agencies,Tender
+Tender floated for bulk printing services,Tender
+Tender published for hardware supply contract,Tender
+Tender floated for cafeteria equipment supply,Tender
+Tender published for purchase of networking cables,Tender
+Tender call for outsourcing housekeeping,Tender
+Tender notice for supply of office stationery,Tender
+Tender floated for procurement of desktop systems,Tender
+Tender call for purchase of fire extinguishers,Tender
+Tender published for solar-powered lighting systems,Tender
+Tender floated for cafeteria catering contract,Tender
+Tender published for bus transport services,Tender
+Tender notice for hospital equipment supply,Tender
+Tender floated for landscaping and gardening,Tender
+Tender call for outsourcing IT helpdesk,Tender
+Tender published for printing of annual reports,Tender
+Tender floated for cafeteria renovation,Tender
+Tender published for software testing services,Tender
+Tender floated for purchase of laptops,Tender
+Tender published for maintenance of air conditioning,Tender
+Tender floated for furniture refurbishment,Tender
+Tender call for outsourcing cafeteria operations,Tender
+Tender published for transport logistics vendor,Tender
+Tender floated for interior painting of office,Tender
+Tender call for supply of biometric devices,Tender
+Tender published for outsourcing cleaning agency,Tender
+Tender floated for installation of elevators,Tender
+Tender floated for supply of AI/ML workstations at CDAC,Tender
+Tender call for procurement of cloud storage systems for CDAC labs,Tender
+Tender published for design of CDAC research park infrastructure,Tender
+Tender floated for procurement of cybersecurity tools,Tender
+Tender call for facility management services at CDAC research labs,Tender
+Tender floated for ERP implementation across CDAC centers,Tender
+Tender published for setting up smart classrooms at CDAC,Tender
+Tender call for procurement of advanced networking switches,Tender
+Tender floated for cafeteria management contract,Tender
+Tender published for procurement of high-resolution scanners,Tender
+Tender call for procurement of disaster recovery solutions,Tender
+Tender floated for building automation solutions,Tender
+Tender published for development of CDAC innovation hub,Tender
+Tender call for procurement of e-Learning software,Tender
+Tender floated for installation of smart boards,Tender
+Tender published for outsourcing janitorial services,Tender
+Tender call for annual IT security audits,Tender
+Tender floated for supply of ergonomic furniture,Tender
+Tender published for AI-enabled surveillance system,Tender
+Tender floated for construction of research block,Tender
+Tender notice inviting bids for procurement of HPC servers,Tender
+Tender published for outsourcing cafeteria services at CDAC Noida,Tender
+Tender notice for procurement of GPUs for AI research cluster,Tender
+Tender issued for e-learning platform development for CDAC,Tender
+Tender published for supply of lab furniture at CDAC Mohali,Tender
+Tender call for developing mobile app for healthcare project,Tender
+Tender floated for AMC of air-conditioning systems,Tender
+Tender notice for digital archiving solution vendor,Tender
+Tender published for procurement of software development kits,Tender
+Tender notice for AI-based language translation project,Tender
+Tender issued for IT consultancy services,Tender
+Tender floated for procurement of data storage systems,Tender
+Tender published for AI model development in genomics,Tender
+Tender notice for website revamp of CDAC,Tender
+Tender floated for development of hospital management system,Tender
+Tender issued for outsourcing transportation vehicles,Tender
+Tender published for LMS solution procurement,Tender
+Tender notice for upgrading data center cooling system,Tender
+Tender floated for procurement of lab chemicals,Tender
+Tender call for development of biometric system,Tender
+Tender notice for cafeteria services at new CDAC premises,Tender
+Tender floated for housekeeping services in Guwahati office,Tender
+Tender published for supply of modular office furniture,Tender
+Tender notice for cafeteria interior design and furnishing,Tender
+Tender floated for diesel generator supply and installation,Tender
+Tender call for supply of biometric access devices,Tender
+Tender published for building painting and finishing,Tender
+Tender floated for elevator installation at CDAC Guwahati,Tender
+Tender notice for network cabling contract,Tender
+Tender floated for landscaping services at new office campus,Tender
+Tender notice for IT hardware AMC contract,Tender
+Tender floated for cafeteria equipment procurement,Tender
+Tender call for vendor to manage parking facilities,Tender
+Tender floated for cafeteria food supply contract,Tender
+Tender published for structural safety audit services,Tender
+Tender floated for office cleaning supplies,Tender
+Tender notice for electrical wiring works,Tender
+Tender call for campus Wi-Fi installation,Tender
+Tender floated for pest control services contract,Tender
+Tender published for cafeteria manpower outsourcing,Tender
+"""Tender for supply of office chairs 2025""",Tender
+"""Government tender notice for IT equipment""",Tender
+"""Tender notice for IT equipment procurement"", …",Tender
+Tender notice for IT equipment procurement,Tender
+Tender for supply of office chairs 2025,Tender
+Tender invitation: Office furniture supply,Tender
+Tender for new software procurement,Tender
+Government tender for office renovation,Tender
+Tender notice for HVAC maintenance,Tender
+Tender for security services 2025,Tender
+Tender for cleaning services,Tender
+Tender for office stationery supply,Tender
+Tender for annual audit services,Tender
+Certificate of Participation  ,
