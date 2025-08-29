@@ -8,8 +8,9 @@ import joblib
 
 # === Step 1: Load your dataset ===
 # The CSV should have columns: 'text', 'label'
-df = pd.read_csv("training_data.csv", encoding="latin-1")  # replace with your dataset file
-
+df = pd.read_csv("training_data.csv", encoding="ISO-8859-1")  # replace with your dataset file
+df = df.dropna()
+df= df.fillna("")
 X = df['text'].astype(str)  # ensure all text is string
 y = df['label']
 
